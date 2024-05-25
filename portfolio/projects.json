@@ -8,7 +8,7 @@
 	{
 		"title": "A custom Javascript interpreter",
 		"githubLink": "https://github.com/sebzz2k2/haki_script_js",
-		"techStack": ["Typescript"]
+		"techStack": ["Typescript"],
 		"projectDescription" : "A custom Interpreter"
 	},
 	{
