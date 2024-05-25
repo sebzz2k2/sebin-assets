@@ -1,0 +1,28 @@
+[
+	{
+		"title": "A custom Python interpreter",
+		"githubLink": "https://github.com/sebzz2k2/resumeWiz",
+		"techStack": ["Javascript", "React JS"],
+		"projectDescription" : "A project that can create a resume from a JSON file and sends the new resume to an email"
+	},
+	{
+		"title": "A custom Javascript interpreter",
+		"githubLink": "https://github.com/sebzz2k2/haki_script_js",
+		"techStack": ["Typescript"]
+		"projectDescription" : "A custom Interpreter"
+	},
+	{
+		"title": "Small arcade game",
+		"githubLink": "https://github.com/sebzz2k2/games",
+		"projectLink": "https://games-sebin.netlify.app/",
+		"techStack": ["React" ],
+		"projectDescription" : "React Implementation of the classic arcade games like snake, tic-tac-toe." 
+	},
+	{
+		"title" : "Conway's Game of Life",
+		"githubLink": "https://github.com/sebzz2k2/game-of-life",
+		"projectLink": "https://creative-marzipan-d91e4f.netlify.app/",
+		"techStack": ["Javascript", "React JS"],
+		"projectDescription" : "Conway's Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
+	}
+]
