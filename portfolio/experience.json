@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Software Developer 1",
+    "company": "Hacklab Solutions",
+    "startDate": "December 2022",
+    "endDate": "Present",
+    "location": "Remote",
+    "responsibilities": [
+      "Led the implementation of a robust CI/CD pipeline responsible for automating build, testing, and deployment processes, resulting in accelerated development cycles and improved code reliability",
+      "Undertook a significant code rewrite of the backend, transitioning it to a Node.js architecture while strictly adhering to industry best practices and coding standards. Integration with thingsboard APIs and created thingsboard wrapper.",
+      "Designed the entire system architecture for the dashboard and led its frontend development using Next.js and TypeScript.",
+      "Successfully integrated caching mechanisms using Redis, enhancing application performance and reducing response times for improved user experiences."
+    ]
+  },
+  {
+    "title": "Software Development Intern",
+    "company": "Hacklab Solutions",
+    "startDate": "December 2022",
+    "endDate": "June 2023",
+    "location": "Remote",
+    "responsibilities": [
+      "Worked on a comprehensive image annotation and tagging interface from the ground up, leveraging React, Docker, and adept UI design. The resultant platform facilitated streamlined and accurate image annotation, crucial for generating top-tier datasets for AI model training.",
+      "Created reusable widgets and rule chains on thingsboard platform.",
+      "Played a key role in constructing a scalable backend system to support AI model training and deployment using Node.js. Employed expertise in Node.js and associated technologies to fine-tune system performance and optimize model accuracy."
+    ]
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Charitism",
+    "startDate": "April 2022",
+    "endDate": "June 2022",
+    "location": "Remote",
+    "responsibilities": [
+      "Elevated the user experience of the operations team's dashboard website by skillfully incorporating Chakra UI and Material UI design principles, resulting in an intuitive and visually appealing interface.",
+      "Developed a comprehensive workflow manual for Quality Assurance (QA) testing, resulting in heightened efficiency, streamlined processes, and enhanced quality assurance practices."
+    ]
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Crowdoverflow",
+    "startDate": "January 2022",
+    "endDate": "March 2022",
+    "location": "Remote",
+    "responsibilities": [
+      "Created and fixed bugs on frontend components and features."
+    ]
+  }
+]
