@@ -29,5 +29,5 @@
 		"githubLink": "https://github.com/sebzz2k2/resumeWiz",
 		"techStack": ["Javascript", "React JS"],
 		"projectDescription" : ["A project that can create a resume from a JSON file and sends the new resume to an email"]
-	},
+	}
 ]
