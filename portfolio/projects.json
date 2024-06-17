@@ -1,9 +1,9 @@
 [
 	{
-		"title": "A custom Python interpreter",
-		"githubLink": "https://github.com/sebzz2k2/resumeWiz",
-		"techStack": ["Javascript", "React JS"],
-		"projectDescription" : ["A project that can create a resume from a JSON file and sends the new resume to an email"]
+		"title": "Adaptive HLS stream creator",
+		"githubLink": "https://github.com/sebzz2k2/adaptive-hls-video-encoder",
+		"techStack": ["Javascript", "Typescript", "Redis", "docker","docker-compose","minio" ],
+		"projectDescription" : ["creates multiple resolution", "uses Bun as runtime","no dependency on cloud", "can switch minio with AWS s3, redis with AWS SQS and script to spin docker container with AWS ECS fargate"]
 	},
 	{
 		"title": "A custom Javascript interpreter",
@@ -24,5 +24,10 @@
 		"projectLink": "https://creative-marzipan-d91e4f.netlify.app/",
 		"techStack": ["Javascript", "React JS"],
 		"projectDescription" : ["Conway's Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970."]
-	}
+	},{
+		"title": "ResumeWiz",
+		"githubLink": "https://github.com/sebzz2k2/resumeWiz",
+		"techStack": ["Javascript", "React JS"],
+		"projectDescription" : ["A project that can create a resume from a JSON file and sends the new resume to an email"]
+	},
 ]
