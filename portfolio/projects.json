@@ -2,7 +2,7 @@
 	{
 		"title": "Adaptive HLS stream creator",
 		"githubLink": "https://github.com/sebzz2k2/adaptive-hls-video-encoder",
-		"techStack": ["Javascript", "Typescript", "Redis", "docker","docker-compose","Minio" ],
+		"techStack": ["Javascript", "Typescript", "Redis", "Docker","Minio" ],
 		"projectDescription" : ["creates multiple resolution", "uses Bun as runtime","no dependency on cloud", "can switch minio with AWS s3, redis with AWS SQS and script to spin docker container with AWS ECS fargate"]
 	},
 	{
